@@ -1,0 +1,19 @@
+python3: can't open file '/home/ec2-user/Interactive/run': [Errno 2] No such file or directory
+Dash is running on http://127.0.0.1:8050/
+
+ * Serving Flask app 'Interactive-Kmeans-app'
+ * Debug mode: on
+Dash is running on http://127.0.0.1:8050/
+
+ * Serving Flask app 'Interactive-Kmeans-app'
+ * Debug mode: on
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.31.32.27:8501
+  External URL: http://52.66.201.59:8501
+
+  Stopping...
