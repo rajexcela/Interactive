@@ -10,8 +10,8 @@ import json
 import numpy as np
 import dash
 from dash.dependencies import Input, Output, State
-import dash_core_components as dcc
-import dash_html_components as html
+from dash import dcc
+from dash import html
 import plotly.graph_objs as go
 from sklearn.datasets import make_blobs
 from sklearn.cluster import KMeans
